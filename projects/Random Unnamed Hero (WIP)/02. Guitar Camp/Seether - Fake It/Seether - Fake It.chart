@@ -1,0 +1,51 @@
+[Song]
+{
+	Name = "Seether - Fake It"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Seether - Fake It.ogg"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+	816 = B 128000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	816 = N 4 0
+	936 = N 4 0
+	1056 = N 0 0
+	1128 = N 1 0
+	1248 = N 1 0
+	1440 = N 1 0
+	1512 = N 3 0
+	1632 = N 4 0
+	1824 = N 3 0
+	1896 = N 2 0
+	2016 = N 2 0
+	2088 = N 3 168
+	2280 = N 4 0
+	2400 = N 4 0
+	2520 = N 0 0
+	2592 = N 1 0
+	2712 = N 1 0
+	2904 = N 1 0
+	2976 = N 3 0
+	3096 = N 4 0
+	3288 = N 3 0
+	3360 = N 2 0
+	3480 = N 2 0
+	3552 = N 3 168
+}

@@ -1,0 +1,52 @@
+[Song]
+{
+	Name = "Nickelback - Rockstar"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Nickelback - Rockstar.ogg"
+}
+[SyncTrack]
+{
+	0 = B 76000
+	0 = TS 4
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	768 = N 1 168
+	768 = N 4 168
+	960 = N 4 192
+	960 = N 1 192
+	1176 = N 1 0
+	1224 = N 1 120
+	1224 = N 4 120
+	1368 = N 1 0
+	1368 = N 4 0
+	1440 = N 4 0
+	1440 = N 1 0
+	1488 = N 1 0
+	1536 = N 1 0
+	1584 = N 2 168
+	1584 = N 3 168
+	1776 = N 3 192
+	1776 = N 2 192
+	1992 = N 2 0
+	2040 = N 2 120
+	2040 = N 3 120
+	2184 = N 2 0
+	2184 = N 3 0
+	2256 = N 3 0
+	2256 = N 2 0
+	2304 = N 2 0
+	2352 = N 2 0
+}

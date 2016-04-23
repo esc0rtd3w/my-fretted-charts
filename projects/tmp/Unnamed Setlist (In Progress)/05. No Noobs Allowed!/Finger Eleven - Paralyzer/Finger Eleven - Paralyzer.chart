@@ -1,0 +1,52 @@
+[Song]
+{
+	Name = "Finger Eleven - Paralyzer"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Finger Eleven - Paralyzer.ogg"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+	960 = B 100000
+	3072 = B 95000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	960 = N 0 0
+	976 = N 1 0
+	992 = N 2 0
+	1008 = N 3 624
+	1008 = N 4 624
+	2400 = N 0 0
+	2496 = N 4 0
+	2592 = N 3 0
+	2688 = N 2 0
+	2784 = N 1 0
+	2848 = N 1 0
+	2880 = N 2 0
+	2976 = N 2 0
+	3024 = N 1 0
+	3072 = N 0 0
+	3168 = N 4 0
+	3264 = N 3 0
+	3360 = N 2 0
+	3456 = N 1 0
+	3520 = N 1 0
+	3552 = N 2 0
+	3648 = N 2 0
+	3696 = N 1 0
+	3728 = N 0 0
+}

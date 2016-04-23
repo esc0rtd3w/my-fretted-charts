@@ -1,0 +1,59 @@
+[Song]
+{
+	Name = "Hollies - Long Cool Woman In A Black Dress"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Hollies - Long Cool Woman In A Black Dress.ogg"
+}
+[SyncTrack]
+{
+	0 = B 138000
+	0 = TS 4
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	768 = N 0 0
+	864 = N 0 0
+	912 = N 1 0
+	960 = N 2 0
+	1008 = N 3 0
+	1056 = N 4 144
+	1056 = N 3 144
+	1248 = N 4 0
+	1296 = N 3 0
+	1344 = N 4 0
+	1344 = N 1 0
+	1440 = N 4 0
+	1440 = N 1 0
+	1536 = N 4 0
+	1536 = N 2 0
+	1632 = N 2 0
+	1632 = N 3 0
+	1728 = N 2 0
+	1728 = N 3 0
+	1824 = N 2 0
+	1824 = N 4 0
+	1920 = N 2 0
+	1920 = N 4 0
+	2016 = N 2 0
+	2016 = N 3 0
+	2112 = N 1 0
+	2112 = N 3 0
+	2208 = N 3 0
+	2208 = N 0 0
+	2304 = N 2 0
+	2304 = N 0 0
+	2400 = N 1 0
+	2400 = N 0 0
+}

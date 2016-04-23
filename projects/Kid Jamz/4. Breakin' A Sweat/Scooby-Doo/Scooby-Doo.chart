@@ -1,0 +1,54 @@
+[Song]
+{
+	Name = "Scooby-Doo"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Scooby-Doo.ogg"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	1584 = N 1 264
+	1584 = N 3 264
+	1944 = N 2 240
+	1944 = N 0 240
+	2256 = N 1 552
+	2256 = N 0 552
+	2880 = N 3 0
+	3024 = N 2 0
+	3168 = N 1 0
+	3312 = N 0 0
+	3504 = N 3 336
+	3504 = N 1 336
+	3888 = N 3 0
+	3888 = N 4 0
+	3888 = N 1 0
+	4032 = N 4 0
+	4032 = N 0 0
+	4200 = N 4 0
+	4200 = N 1 0
+	4368 = N 2 0
+	4368 = N 4 0
+	4512 = N 3 0
+	4512 = N 4 0
+	4656 = N 4 0
+	4656 = N 2 0
+	4752 = N 2 0
+	4752 = N 3 0
+	4752 = N 4 0
+}

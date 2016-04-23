@@ -1,0 +1,82 @@
+[Song]
+{
+	Name = "Hinder - Get Stoned"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Hinder - Get Stoned.ogg"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+	864 = B 76000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	864 = N 0 0
+	864 = N 2 0
+	960 = N 1 0
+	1056 = N 0 0
+	1056 = N 2 0
+	1152 = N 1 0
+	1248 = N 0 0
+	1248 = N 1 0
+	1344 = N 1 0
+	1440 = N 0 0
+	1440 = N 1 0
+	1536 = N 1 0
+	1632 = N 2 0
+	1632 = N 4 0
+	1728 = N 1 0
+	1824 = N 2 0
+	1824 = N 4 0
+	1920 = N 1 0
+	2016 = N 4 0
+	2016 = N 3 0
+	2112 = N 1 0
+	2208 = N 4 0
+	2208 = N 3 0
+	2304 = N 4 0
+	2400 = N 0 0
+	2400 = N 2 0
+	2496 = N 1 0
+	2592 = N 0 0
+	2592 = N 2 0
+	2688 = N 1 0
+	2784 = N 0 0
+	2784 = N 1 0
+	2880 = N 1 0
+	2976 = N 0 0
+	2976 = N 1 0
+	3072 = N 1 0
+	3168 = N 2 0
+	3168 = N 4 0
+	3264 = N 1 0
+	3360 = N 2 0
+	3360 = N 4 0
+	3456 = N 1 0
+	3552 = N 4 0
+	3552 = N 3 0
+	3648 = N 1 0
+	3720 = N 4 0
+	3768 = N 3 0
+	3768 = N 1 0
+	3768 = N 4 0
+	3816 = N 1 0
+	3816 = N 3 0
+	3816 = N 4 0
+	3912 = N 4 0
+	3912 = N 1 0
+	3912 = N 2 0
+}

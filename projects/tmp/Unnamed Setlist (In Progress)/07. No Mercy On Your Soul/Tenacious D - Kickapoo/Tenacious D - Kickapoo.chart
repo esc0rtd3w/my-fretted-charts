@@ -1,0 +1,82 @@
+[Song]
+{
+	Name = "Tenacious D - Kickapoo"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Tenacious D - Kickapoo.ogg"
+}
+[SyncTrack]
+{
+	0 = B 120000
+	0 = TS 4
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	768 = N 1 0
+	768 = N 4 0
+	864 = N 4 0
+	1008 = N 3 0
+	1056 = N 0 0
+	1152 = N 4 0
+	1200 = N 3 0
+	1248 = N 2 0
+	1296 = N 3 0
+	1440 = N 1 0
+	1488 = N 1 0
+	1536 = N 1 0
+	1536 = N 4 0
+	1632 = N 3 0
+	1776 = N 3 0
+	1824 = N 2 0
+	1920 = N 4 0
+	1968 = N 3 0
+	2016 = N 2 0
+	2064 = N 3 0
+	2112 = N 1 0
+	2160 = N 3 0
+	2208 = N 2 0
+	2256 = N 2 0
+	2304 = N 2 0
+	2352 = N 0 0
+	2352 = N 3 0
+	2496 = N 2 0
+	2640 = N 2 0
+	2688 = N 1 0
+	2784 = N 3 0
+	2832 = N 2 0
+	2880 = N 1 0
+	2928 = N 2 0
+	2976 = N 0 0
+	3024 = N 2 0
+	3072 = N 1 0
+	3120 = N 1 0
+	3168 = N 0 0
+	3168 = N 3 0
+	3264 = N 2 0
+	3408 = N 2 0
+	3456 = N 1 0
+	3552 = N 3 0
+	3600 = N 2 0
+	3648 = N 1 0
+	3744 = N 0 0
+	3792 = N 2 0
+	3840 = N 1 0
+	3840 = N 4 0
+	3888 = N 4 0
+	3888 = N 2 0
+	3936 = N 4 0
+	3936 = N 1 0
+	4032 = N 0 0
+	4032 = N 4 0
+}

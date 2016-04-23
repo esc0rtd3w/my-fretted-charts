@@ -1,0 +1,73 @@
+[Song]
+{
+	Name = "Zelda_2-_Battle_Stage"
+	Artist = "Unknown Artist"
+	Charter = "Unknown Charter"
+	Offset = 0
+	Resolution = 192
+	Player2 = bass
+	Difficulty = 0
+	PreviewStart = 0.00
+	PreviewEnd = 0.00
+	Genre = "rock"
+	MediaType = "cd"
+	MusicStream = "Zelda_2-_Battle_Stage.ogg"
+}
+[SyncTrack]
+{
+	0 = B 200000
+	0 = TS 4
+	1152 = B 219000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+	1152 = N 0 144
+	1152 = N 1 144
+	1344 = N 1 0
+	1440 = N 4 144
+	1632 = N 4 0
+	1728 = N 3 144
+	1920 = N 3 0
+	2016 = N 2 144
+	2208 = N 2 0
+	2304 = N 1 144
+	2496 = N 0 144
+	2688 = N 1 144
+	2880 = N 1 0
+	2976 = N 4 144
+	3168 = N 4 0
+	3264 = N 3 144
+	3456 = N 3 0
+	3552 = N 2 144
+	3744 = N 2 0
+	3840 = N 3 336
+	4224 = N 0 144
+	4224 = N 1 144
+	4416 = N 0 0
+	4512 = N 4 144
+	4704 = N 4 0
+	4800 = N 3 144
+	4992 = N 3 0
+	5088 = N 2 144
+	5280 = N 2 0
+	5376 = N 1 336
+	5760 = N 0 144
+	5952 = N 0 0
+	6048 = N 4 144
+	6240 = N 4 0
+	6336 = N 3 144
+	6528 = N 2 144
+	6720 = N 2 0
+	6816 = N 1 144
+	7008 = N 1 0
+	7104 = N 0 144
+	7296 = N 0 528
+	7296 = N 1 528
+	7872 = N 1 144
+	8064 = N 2 240
+	8352 = N 3 240
+	8640 = N 4 144
+}
