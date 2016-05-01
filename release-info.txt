@@ -1,0 +1,122 @@
+Chart creation for Guitar Zero, Frontman, Frets on Fire, Phase Shift, and similar.
+
+esc0rtd3w / crackacademy.com
+
+
+
+--------------------------------------------------------------------------------------------------
+Key
+--------------------------------------------------------------------------------------------------
+
+Default dB Chart:
+
+A Feedback chart with notes placed at the first and last notes to be used as placeholders*
+*Failure to do this will result in a crash when song is loaded in FoFiX.
+
+Also use properly named artist, title, and charter tags
+
+
+
+Prepared OGG:
+
+An OGG audio file with the first 2 sec of track being filled with blank audio*
+*If there is a previous blank area at beginning, this must be trimmed first
+
+
+
+Prepared song.ini File:
+
+A text file with the following lines
+
+----------------------
+[song]
+album = 
+artist = 
+name = 
+year = 
+frets = esc0rtd3w
+version = 0.1
+----------------------
+
+
+
+Prepared guitar.ogg File
+
+A copy of the Prepared OGG renamed to "guitar.ogg".
+
+
+
+Prepared song.ogg File
+
+A copy of the Prepared OGG renamed to "song.ogg".
+
+
+
+FL Studio:
+
+FruityLoops, FruityLoops Studio, Fruity Loops, Fruity Loops Studio variations
+
+--------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------
+Versioning Overview
+--------------------------------------------------------------------------------------------------
+
+
+******************************************************************
+* THESE ARE ONLY HERE TO SERVE AS A GUIDE, NOT A DEFINITIVE PATH *
+******************************************************************
+
+
+Version		Minimum Requirements
+--------	---------------------
+
+0.0		Source MP3
+		Prepared OGG
+		Prepared song.ini File
+		Prepared song.ogg File
+		Prepared guitar.ogg File
+		Default dB Chart
+
+0.1		See v0.0 requirements
+		Source MIDI
+		Converted notes.mid
+		Source FL Studio Project (Optional)
+
+0.2		See v0.1 requirements
+		Partial dB chart finished
+
+0.3		See v0.2 requirements
+		Most notes in chart are placed
+
+0.4		See v0.3 requirements
+		BPM is set for most of the chart in dB
+
+0.5+		See v0.4 requirements
+		Chart is finished on Expert, except a few minor adjustments
+
+1.0		See 0.5+ requirements
+		Chart is finished on Expert
+		Both notes-gh.mid and notes-rb.mid are created and included
+
+1.1		See 1.0 requirements
+		Easy, Medium, Hard tracks created
+
+1.2+		See 1.1 requirements
+		Star Power added to all tracks
+		Any leftover tweaks that need done must be finished
+		Additional instruments can be added
+
+2.0+		See 1.2+ requirements
+		Events are added, and other customizations
+		Additional instruments can be added
+
+
+--------------------------------------------------------------------------------------------------
+
+
+
+
+
